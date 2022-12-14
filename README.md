@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **Frontend projects**
 
-- 👨‍💻 All of my projects are available at [https://inescor.tumblr.com/](https://inescor.tumblr.com/)
+- 👨‍💻 All of my projects are available at [https://troopl.com/inesccorreia/](https://troopl.com/inesccorreia/)
 
 - 📝 I regularly write articles on [https://inescorreia.home.blog/](https://inescorreia.home.blog/)
 
