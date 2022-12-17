@@ -11,7 +11,7 @@
 
 - 📝 I regularly write articles on [https://inescorreia.home.blog/](https://inescorreia.home.blog/)
 
-- 💬 Ask me about **HTML5, CSS, Bootstrap and JavaScript**
+- 💬 Ask me about **HTML5, CSS, Bootstrap and Ruby on Rails**
 
 - 📫 How to reach me **inesccorreia@gmail.com**
 
