@@ -11,7 +11,7 @@
 
 - 📝 I regularly write articles on [https://inescorreia.home.blog/](https://inescorreia.home.blog/)
 
-- 💬 Ask me about **HTML, CSS, Bootstrap and Ruby on Rails**
+- 💬 Ask me about **HTML, CSS, Ruby, Salesforce Commerce Cloud & Sitecore**
 
 - 📫 How to reach me **inesccorreia@gmail.com**
 
