@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Inês Correia</h1>
-<h3 align="center">Aspiring to Junior Frontend Web Developer with a Marketing and Communication degree</h3>
+<h3 align="center">Aspiring Frontend Web Developer with a Marketing background</h3>
 
 - 🔭 I’m currently working on **getting a new job as a Frontend Web Developer**
 
