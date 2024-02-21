@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://troopl.com/inesccorreia/](https://troopl.com/inesccorreia/)
 
-- 📝 I regularly write articles on [https://inescorreia.home.blog/](https://inescorreia.home.blog/)
+- 📝 I regularly write articles on https://medium.com/@inescorreia.home.blog
 
 - 💬 Ask me about **HTML, CSS, Ruby, Salesforce Commerce Cloud & Sitecore**
 
