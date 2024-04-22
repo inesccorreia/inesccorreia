@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **Frontend projects**
 
-- 👨‍💻 All of my projects are available at [https://troopl.com/inesccorreia/](https://troopl.com/inesccorreia/)
+- 👨‍💻 All of my projects are available at [https://inesccorreia.github.io/online-creative-portfolio/](https://inesccorreia.github.io/online-creative-portfolio/)
 
 - 📝 I regularly write articles on https://medium.com/@inescorreia.home.blog
 
