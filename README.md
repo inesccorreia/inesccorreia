@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Inês Correia</h1>
 <h3 align="center">Frontend Web Developer with a Marketing background</h3>
 
-- 🔭 I’m currently working on **getting a new job as a Frontend Web Developer**
+- 🔭 I’m currently working on **my online creative Portfolio**
 
 - 🌱 I’m currently learning **more about freelancing & digital marketing services**
 
