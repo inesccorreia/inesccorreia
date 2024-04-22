@@ -11,7 +11,7 @@
 
 - 📝 I regularly write articles on https://medium.com/@inescorreia.home.blog
 
-- 💬 Ask me about **HTML, CSS, Ruby, WordPress, Shopify, Salesforce Commerce Cloud & Sitecore**
+- 💬 Ask me about **HTML, CSS, Ruby, WordPress, Shopify, Figma, Salesforce Commerce Cloud & Sitecore**
 
 - 📫 How to reach me **inesccorreia@gmail.com**
 
