@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **more about freelancing & digital marketing services**
 
-- 👯 I’m looking to collaborate on **Frontend projects**
+- 👯 I’m looking to collaborate on **frontend web projects**
 
 - 👨‍💻 All of my projects are available at [https://inesccorreia.github.io/online-creative-portfolio/](https://inesccorreia.github.io/online-creative-portfolio/)
 
