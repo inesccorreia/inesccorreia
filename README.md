@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **getting a new job as a Frontend Web Developer**
 
-- 🌱 I’m currently learning **more about JavaScript**
+- 🌱 I’m currently learning **more about freelancing & digital marketing services**
 
 - 👯 I’m looking to collaborate on **Frontend projects**
 
@@ -11,7 +11,7 @@
 
 - 📝 I regularly write articles on https://medium.com/@inescorreia.home.blog
 
-- 💬 Ask me about **HTML, CSS, Ruby, Salesforce Commerce Cloud & Sitecore**
+- 💬 Ask me about **HTML, CSS, Ruby, WordPress, Shopify, Salesforce Commerce Cloud & Sitecore**
 
 - 📫 How to reach me **inesccorreia@gmail.com**
 
